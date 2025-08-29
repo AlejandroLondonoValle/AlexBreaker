@@ -73,17 +73,21 @@ alexbreaker/
 └── README.md               # Este archivo
 ```
 
-!!! warning
-    ## ⚠️ Advertencia de Uso:
+## ⚠️ Advertencia de Uso:
 
-    Esta herramienta está destinada exclusivamente a fines educativos y de auditoría ética.
-    El uso no autorizado contra sistemas ajenos es ilegal y va contra los principios de la comunidad.
-    Úsala bajo tu responsabilidad y siempre con permiso.
+Esta herramienta está destinada exclusivamente a fines educativos y de auditoría ética.
+El uso no autorizado contra sistemas ajenos es ilegal y va contra los principios de la comunidad.
+Úsala bajo tu responsabilidad y siempre con permiso.
 
 
 ## 📄 Licencia
 
-Este proyecto está bajo la licencia MIT
-.
+Este proyecto está bajo la licencia MIT.
 Eres libre de usar, modificar y distribuir este código, siempre y cuando mantengas los créditos.
+
+
+## ✍️ Autor
+
+Creado por Alejandro Londoño & Alejandro Roque
+
 
